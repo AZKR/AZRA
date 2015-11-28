@@ -1,2 +1,2 @@
 # AZRA
-AI Objects for AZRN framework
+AI Objects for AZNT framework
